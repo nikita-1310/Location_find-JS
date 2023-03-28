@@ -1,0 +1,23 @@
+*{
+margin :0;
+padding : 0;
+box-sizing : boder-box;
+}
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-color: rgb(4, 63, 63);
+}
+button{
+    font-size: 50px;
+    padding: 20px 46px;
+    background-color: #fff;
+    border: none;
+    outline: none;
+    border-radius: 10px;
+    font-weight: 500;
+    color: #5372F0;
+    cursor: pointer;
+}
